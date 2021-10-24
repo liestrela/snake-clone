@@ -1,7 +1,7 @@
-#include <SFML/Graphics.hpp>
 #include <vector>
-#include <cstdlib> // for rand()
-#include <iostream>
+#include <cstdlib>  // for rand()
+#include <iostream> // for "game over" message
+#include <SFML/Graphics.hpp>
 
 namespace PC
 {
